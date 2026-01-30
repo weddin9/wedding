@@ -14,8 +14,8 @@ const WeddingInvitation = () => {
   ];
 
   const weddingInfo = {
-    bride: { name: '신부 이름', parent: '아버지 ○○○ · 어머니 ○○○' },
-    groom: { name: '신랑 이름', parent: '아버지 ○○○ · 어머니 ○○○' },
+    bride: { name: '김장미', parent: '아버지 ○○○ · 어머니 ○○○' },
+    groom: { name: '강태풍', parent: '아버지 ○○○ · 어머니 ○○○' },
     date: '2026년 5월 30일 토요일 오후 5시',
     venue: '○○웨딩홀 3층 그랜드볼룸',
     address: '서울특별시 강남구 테헤란로 123',
